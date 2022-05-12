@@ -13,5 +13,4 @@ function oddOrEven(array) {
      return 'even'
    }else{
      return 'odd'
-   }
-}
+   }}
