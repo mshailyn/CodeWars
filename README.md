@@ -1,12 +1,13 @@
 # My CodeWars Repo
-This is a repository of al my codewars solutions. I will try to push my solutions daily.
+This is a repository of all of my codewars solutions. I will push my solutions daily.
 
+https://www.codewars.com/users/mshailyn/badges/large
 
 ## How It's Made:
 
 **Tech used:** JavaScript
 
-Only javascript to answer these problems. I have organized the repo by difficulty of the coding problems. 
+I only javascript to answer these problems and I have organized this repo by difficulty of the coding problem. 
 
 
 ## Examples:
