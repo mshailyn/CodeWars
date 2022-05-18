@@ -1,7 +1,7 @@
 # My CodeWars Repo
 This is a repository of all of my codewars solutions. I will push my solutions daily.
 
-https://www.codewars.com/users/mshailyn/badges/large
+![Picture of Site](https://www.codewars.com/users/mshailyn/badges/large "My curent CodeWars rating")
 
 ## How It's Made:
 
