@@ -7,7 +7,7 @@ This is a repository of all of my codewars solutions. I will push my solutions d
 
 **Tech used:** JavaScript
 
-I only javascript to answer these problems and I have organized this repo by difficulty of the coding problem. 
+I only used javascript to answer these problems and I have organized this repo by difficulty of the coding problem. 
 
 
 ## Examples:
