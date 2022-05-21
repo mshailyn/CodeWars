@@ -1,7 +1,7 @@
 # My CodeWars Repo
 This is a repository of all of my codewars solutions. I will push my solutions daily.
 
-![Picture of Site](https://www.codewars.com/users/mshailyn/badges/large "My curent CodeWars rating")
+![Picture of Codewars Badge](https://www.codewars.com/users/mshailyn/badges/large "My curent CodeWars rating")
 
 ## How It's Made:
 
@@ -11,7 +11,7 @@ I only used javascript to answer these problems and I have organized this repo b
 
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at some of my other projects:
 
 **My Portfolio:** https://github.com/mshailyn/My-Portfolio
 
