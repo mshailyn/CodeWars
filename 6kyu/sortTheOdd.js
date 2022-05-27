@@ -14,7 +14,7 @@ function sortArray(array) {
       newArray.push(num)
     }else{
       newArray.push(odd[oddNum])
-      oddNum++
+      oddNum++ 
     }
   })
   return newArray
