@@ -9,8 +9,6 @@
 // ["Eyes", "Glasses", "Monocles", "Telescopes"]
 
 
-// arrayByLength - 7kyu
-
 
 
 function sortByLength (array) {
