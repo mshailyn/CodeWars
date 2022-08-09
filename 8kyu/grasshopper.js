@@ -8,7 +8,7 @@
 
 // Note: the input will always be valid.
 
-//8kyu - grasshopper.js
+
 
 function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
   return laLigaGoals + copaDelReyGoals + championsLeagueGoals
