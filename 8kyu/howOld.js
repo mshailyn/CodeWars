@@ -2,7 +2,7 @@
 
 //Your task is to write a function that takes two parameters: the year of birth and the year to count years in relation to. As Philip is getting more curious every day he may soon want to know how many years it was until he would be born, so your function needs to work with both dates in the future and in the past.
 
-//8kyu - howOld.js
+
 
 function  calculateAge(age1,age2) {
  if(age1 > age2 && age1 - age2 !== 1){
