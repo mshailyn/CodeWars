@@ -4,8 +4,6 @@
 
 
 
-
-
 function gimme (triplet) {
   let origin = triplet.map(a => a)
   origin.sort((a,b) => a - b)
