@@ -2,8 +2,6 @@
 
 
 
-
-
 var min = function(list){
    list.sort((a,b) => a-b)
     return list[0];
