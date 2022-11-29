@@ -2,6 +2,7 @@
 
 
 
+
 function tidyNumber(n){
   let ans = true
  n.toString().split('').forEach((a,i,arr) => a > arr[i+1] ? ans=false : a)
