@@ -10,3 +10,20 @@ function count(string) {
     return total;
   }, {});
 }
+
+//Using objects
+
+function countChar(str) {
+  //Create a cache objectto hold character amounts
+  let charMap = {}
+
+  //Loop through string and add character into cache
+  for (let char of str) {
+    if (charMap.hasOwnProperty(char)) {
+        charMap[char]++
+    } else {
+        charMap[char] = 1;
+    }
+}
+  return charMap
+}
